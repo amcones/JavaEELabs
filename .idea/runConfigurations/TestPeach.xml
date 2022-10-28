@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="TestPeach" type="Application" factoryName="Application">
-    <option name="MAIN_CLASS_NAME" value="TestPeach" />
+    <option name="MAIN_CLASS_NAME" value="Test1.TestPeach" />
     <module name="JavaEELabs" />
     <method v="2">
       <option name="Make" enabled="true" />

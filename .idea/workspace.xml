@@ -4,12 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bc56556-3699-4127-b46c-ba7e251fbb1a" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/TestPeach.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/TestTaxi.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestPeach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestTaxi.java" afterDir="false" />
+    <list default="true" id="3bc56556-3699-4127-b46c-ba7e251fbb1a" name="变更" comment="complete test1">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test3/TestCanteen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test4/TestClock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/TestPeach.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/TestPeach.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/TestTaxi.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/TestTaxi.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestPeach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test1/TestPeach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestTaxi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test2/TestTaxi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,10 +47,12 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="应用程序.TestPeach">
+  <component name="RunManager" selected="应用程序.TestClock">
     <list>
       <item itemvalue="应用程序.TestPeach" />
       <item itemvalue="应用程序.TestTaxi" />
+      <item itemvalue="应用程序.TestCanteen" />
+      <item itemvalue="应用程序.TestClock" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
@@ -59,6 +64,14 @@
       <option name="presentableId" value="Default" />
       <updated>1666323952129</updated>
     </task>
+    <task id="LOCAL-00001" summary="complete test1">
+      <created>1666920054752</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666920054752</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -72,23 +85,52 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="complete test1" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete test1" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestPeach.java</url>
+          <url>file://$PROJECT_DIR$/src/Test1/TestPeach.java</url>
           <line>31</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestPeach.java</url>
-          <line>48</line>
+          <url>file://$PROJECT_DIR$/src/Test1/TestPeach.java</url>
+          <line>49</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestPeach.java</url>
-          <line>54</line>
+          <url>file://$PROJECT_DIR$/src/Test1/TestPeach.java</url>
+          <line>57</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test1/TestPeach.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test4/TestClock.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test4/TestClock.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test4/TestClock.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test4/TestClock.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
