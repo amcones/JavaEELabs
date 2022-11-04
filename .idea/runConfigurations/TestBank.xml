@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="TestBank" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Test1.TestBank" />
+    <module name="JavaEELabs" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
