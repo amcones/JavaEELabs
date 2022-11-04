@@ -2,9 +2,10 @@ package Test2;
 
 import java.util.HashSet;
 import java.util.Iterator;
+import java.util.concurrent.CopyOnWriteArraySet;
 
 public class Exercise {
-    private HashSet hashSet = new HashSet();
+    private CopyOnWriteArraySet<Integer> hashSet = new CopyOnWriteArraySet<>();
 
     class Task1 implements Runnable {
         public void run() {

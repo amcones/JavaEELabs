@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bc56556-3699-4127-b46c-ba7e251fbb1a" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/TestBank.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test1/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test1/TestBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test2/Exercise.java" afterDir="false" />
+    <list default="true" id="3bc56556-3699-4127-b46c-ba7e251fbb1a" name="变更" comment="completed test1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test2/Exercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test2/Exercise.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +60,14 @@
       <option name="presentableId" value="Default" />
       <updated>1666323952129</updated>
     </task>
+    <task id="LOCAL-00001" summary="completed test1">
+      <created>1667523712927</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667523712927</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -75,5 +80,45 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="completed test1" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed test1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test2/Exercise.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test2/Exercise.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test2/Exercise.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test2/Exercise.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test2/Exercise.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="iterator.next()" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
